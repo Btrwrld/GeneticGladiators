@@ -1,0 +1,9 @@
+Maes, estos son los pasos para montar el rest en eclipse:
+
+1. Descargar el eclipse Java EE: http://www.eclipse.org/downloads/packages/release/Neon/3 y 
+   apache tomcat(8.5 o cual sea): http://tomcat.apache.org/download-80.cgi
+   
+2. Descarguen la carpeta gengladiator y la importan al eclipse como Existing Maven Project. Esperan que se descarguen dependencias
+   (si les da un error de Java build path sigan estas instrucciones: http://stackoverflow.com/questions/3138384/warning-build-path-specifies-execution-environment-j2se-1-4 )
+
+3. Despues solo crean el server en eclipse y corren la vara. gg.
